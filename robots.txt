@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ikenelerg.github.io/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/app/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/assets/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/css/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/includes/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/item/ikenelerg.txt.gz
+Sitemap: https://ikenelerg.github.io/src/ikenelerg.txt.gz
